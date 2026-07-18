@@ -11,5 +11,3 @@ Project Structure
 Installation Instructions
 How to Run the Project
 Author section (Vasu Jain)
-
-This is suitable for submitting your project on GitHub or as a college project. 
