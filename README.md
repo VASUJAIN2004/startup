@@ -11,3 +11,6 @@ It includes:
 * Installation Instructions
 * How to Run the Project
 * Author section (Vasu Jain)
+## Live Demo
+
+https://startup-funding-explorer.streamlit.app
